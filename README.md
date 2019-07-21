@@ -22,7 +22,15 @@ Start date July 17, 2019.
 
 ### Day 2: July 19, 2019
 ##### 
-**Today's Progress**: 
+**Today's Progress**: Ram on computer is dead, ordered new replacement. Watched tutorial videos for react.
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 3: July 20, 2019
+##### 
+**Today's Progress**: Ram on computer is dead, ordered new replacement. Watched tutorial videos for react.
 
 **Thoughts** 
 
