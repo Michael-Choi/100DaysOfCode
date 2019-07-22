@@ -35,3 +35,11 @@ Start date July 17, 2019.
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 4: July 21, 2019
+##### Javascript 30 project 2.
+**Today's Progress**: Borrowed a stick of ram until replacement arrives. Installed ubuntu and windows on new SSD. Will begin work on animating a clock using javascript. 
+
+**Thoughts** 
+
+**Link(s) to work**
