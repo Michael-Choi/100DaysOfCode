@@ -43,3 +43,11 @@ Start date July 17, 2019.
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 5: July 22, 2019
+##### Freecodecamp
+**Today's Progress**: Started working on Freecodecamp's react lessons. 
+
+**Thoughts** 
+
+**Link(s) to work**
