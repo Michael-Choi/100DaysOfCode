@@ -51,3 +51,11 @@ Start date July 17, 2019.
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 6: July 23, 2019
+##### Freecodecamp
+**Today's Progress**: Worked on the LHL Katas and leetcode. 
+
+**Thoughts** 
+
+**Link(s) to work**
