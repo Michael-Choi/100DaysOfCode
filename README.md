@@ -59,3 +59,11 @@ Start date July 17, 2019.
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 7: July 24, 2019
+##### Leetcode
+**Today's Progress**: Solving easy/medium leetcode problems. 
+
+**Thoughts** 
+
+**Link(s) to work**
