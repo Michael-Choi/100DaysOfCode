@@ -76,7 +76,7 @@ Start date July 17, 2019.
 
 **Link(s) to work**
 
-### Day 8-13: July 25-30, 2019
+### Day 14: July 31, 2019
 ##### Lighthouse Labs prep
 **Today's Progress**: Solving additional katas. 
 
