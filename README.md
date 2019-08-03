@@ -91,3 +91,11 @@ Start date July 17, 2019.
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 16: August 2, 2019
+##### FCC
+**Today's Progress**: Working on react components. 
+
+**Thoughts** 
+
+**Link(s) to work**
