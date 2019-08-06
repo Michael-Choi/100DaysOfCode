@@ -99,3 +99,11 @@ Start date July 17, 2019.
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 17-19: August 5, 2019
+##### FCC
+**Today's Progress**: Learning react. 
+
+**Thoughts** 
+
+**Link(s) to work**
