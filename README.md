@@ -116,3 +116,12 @@ Start date July 17, 2019.
 
 **Link(s) to work**
 
+### Day 21: August 7, 2019
+##### Skiena's Algorithm Design Textbook
+**Today's Progress**:  Reading and following along with various algorithms
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
