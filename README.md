@@ -132,4 +132,12 @@ Start date July 17, 2019.
 
 **Link(s) to work**
 
+### Day 23: August 9, 2019
+##### Freecodecamp/leetcode
+**Today's Progress**:  React and leetcode
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
