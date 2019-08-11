@@ -140,4 +140,12 @@ Start date July 17, 2019.
 
 **Link(s) to work**
 
+### Day 23: August 10, 2019
+##### Freecodecamp/leetcode/skiena algorithm design manual
+**Today's Progress**:  Learning about algorithms and data structures
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
