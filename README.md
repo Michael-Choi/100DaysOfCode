@@ -148,4 +148,12 @@ Start date July 17, 2019.
 
 **Link(s) to work**
 
+### Day 24: August 11, 2019
+##### Skiena algorithm design manual
+**Today's Progress**:  Learning about algorithms and data structures
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
