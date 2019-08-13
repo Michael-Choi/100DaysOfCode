@@ -12,148 +12,97 @@ Start date July 17, 2019.
 
 ### Day 1: July 18, 2019
 ##### Lighthouse Labs prep content
-
 **Today's Progress**: Finished most of the mandatory content and only have the browser content left now.
-
-**Thoughts**: 
-
-**Link to work**:
 
 
 ### Day 2: July 19, 2019
 ##### 
 **Today's Progress**: Ram on computer is dead, ordered new replacement. Watched tutorial videos for react.
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 3: July 20, 2019
 ##### 
 **Today's Progress**: Ram on computer is dead, ordered new replacement. Watched tutorial videos for react.
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 4: July 21, 2019
 ##### Javascript 30 project 2.
 **Today's Progress**: Borrowed a stick of ram until replacement arrives. Installed ubuntu and windows on new SSD. Will begin work on animating a clock using javascript. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 5: July 22, 2019
 ##### Freecodecamp
 **Today's Progress**: Started working on Freecodecamp's react lessons. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 6: July 23, 2019
 ##### Freecodecamp
 **Today's Progress**: Worked on the LHL Katas and leetcode. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 7: July 24, 2019
 ##### Leetcode
 **Today's Progress**: Solving easy/medium leetcode problems. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 8-13: July 25-30, 2019
 ##### Leetcode
 **Today's Progress**: Solving easy/medium leetcode problems. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 14: July 31, 2019
 ##### Lighthouse Labs prep
 **Today's Progress**: Solving additional katas. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 15: August 1, 2019
 ##### FCC
 **Today's Progress**: Working on react components. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 16: August 2, 2019
 ##### FCC
 **Today's Progress**: Working on react components. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 17-19: August 5, 2019
 ##### FCC
 **Today's Progress**: Learning react. 
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 20: August 6, 2019
 ##### Skiena's Algorithm Design Textbook
 **Today's Progress**:  Reading and following along with various algorithms
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 21: August 7, 2019
 ##### Skiena's Algorithm Design Textbook
 **Today's Progress**:  Reading and following along with various algorithms
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 22: August 8, 2019
 ##### Skiena's Algorithm Design Textbook
 **Today's Progress**:  Reading and following along with various algorithms
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 23: August 9, 2019
 ##### Freecodecamp/leetcode
 **Today's Progress**:  React and leetcode
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 23: August 10, 2019
 ##### Freecodecamp/leetcode/skiena algorithm design manual
 **Today's Progress**:  Learning about algorithms and data structures
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day 24: August 11, 2019
 ##### Skiena algorithm design manual
 **Today's Progress**:  Learning about algorithms and data structures
 
-**Thoughts** 
+### Day 25: August 12, 2019
+##### Leetcode
+**Today's Progress**:  Solving easy/medium questions
 
-**Link(s) to work**
+
 
 
