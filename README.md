@@ -103,6 +103,9 @@ Start date July 17, 2019.
 ##### Leetcode
 **Today's Progress**:  Solving easy/medium questions
 
+### Day 26: August 13, 2019
+##### Computer setup
+**Today's Progress**: Replacement sata cable arrived. Installed dualboot ubuntu/windows on a new ssd and setup dev tools.
 
 
 
