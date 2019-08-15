@@ -107,5 +107,7 @@ Start date July 17, 2019.
 ##### Computer setup
 **Today's Progress**: Replacement sata cable arrived. Installed dualboot ubuntu/windows on a new ssd and setup dev tools.
 
-
+### Day 27: August 14, 2019
+##### Skiena algorithm design manual
+**Today's Progress**: Studying algorithms and data structures
 
