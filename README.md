@@ -99,15 +99,29 @@ Start date July 17, 2019.
 ##### Skiena algorithm design manual
 **Today's Progress**:  Learning about algorithms and data structures
 
+
 ### Day 25: August 12, 2019
 ##### Leetcode
 **Today's Progress**:  Solving easy/medium questions
+
 
 ### Day 26: August 13, 2019
 ##### Computer setup
 **Today's Progress**: Replacement sata cable arrived. Installed dualboot ubuntu/windows on a new ssd and setup dev tools.
 
+
 ### Day 27: August 14, 2019
 ##### Skiena algorithm design manual
 **Today's Progress**: Studying algorithms and data structures
+
+
+### Day 28: August 15, 2019
+##### Skiena algorithm design manual
+**Today's Progress**: Studying algorithms and data structures
+
+
+### Day 29: August 16, 2019
+##### Skiena algorithm design manual/react
+**Today's Progress**: Studying algorithms and data structures/following along with FCC react course
+
 
