@@ -125,3 +125,11 @@ Start date July 17, 2019.
 **Today's Progress**: Studying algorithms and data structures/following along with FCC react course
 
 
+### Day 30: August 17, 2019
+##### Skiena algorithm design manual/leetcode
+**Today's Progress**: Studying algorithms and data structures/leetcode
+
+
+### Day 31: August 18, 2019
+##### HTML/CSS/JS review
+**Today's Progress**: Reviewing web dev basics before I start the bootcamp tomorrow.
