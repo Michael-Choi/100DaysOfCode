@@ -133,3 +133,12 @@ Start date July 17, 2019.
 ### Day 31: August 18, 2019
 ##### HTML/CSS/JS review
 **Today's Progress**: Reviewing web dev basics before I start the bootcamp tomorrow.
+
+### Day 32: August 19, 2019
+##### Bootcamp W1D1
+**Today's Progress**: Going over javascript functions, conditionals, arrays, loops, and the procedures to solving problems.
+
+### Day 33: August 20, 2019
+##### Bootcamp W1D2
+**Today's Progress**: Learning to debug errors through google inspect and problem solving.
+
