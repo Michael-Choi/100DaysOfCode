@@ -134,11 +134,32 @@ Start date July 17, 2019.
 ##### HTML/CSS/JS review
 **Today's Progress**: Reviewing web dev basics before I start the bootcamp tomorrow.
 
+
 ### Day 32: August 19, 2019
 ##### Bootcamp W1D1
 **Today's Progress**: Going over javascript functions, conditionals, arrays, loops, and the procedures to solving problems.
+
 
 ### Day 33: August 20, 2019
 ##### Bootcamp W1D2
 **Today's Progress**: Learning to debug errors through google inspect and problem solving.
 
+
+### Day 34: August 21, 2019
+##### Bootcamp W1D3 - Objects
+**Today's Progress**: Learned about ojects using 'this' and practiced manipulating data
+
+
+### Day 35: August 22, 2019
+##### Bootcamp W1D4 - Callback functions
+**Today's Progress**: Practiced using callback functions and closures.
+
+
+### Day 36: August 23, 2019
+##### Bootcamp W1D5 - Recursion
+**Today's Progress**: Practiced recursion fundamentals.
+
+
+### Day 37: August 24, 2019
+##### Bootcamp W1D5 - Unit testing using Mocha and Chai
+**Today's Progress**: Learned about fundamental unit testing, and automated testing using Mocha and Chai.
